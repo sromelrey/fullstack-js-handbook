@@ -1,5 +1,11 @@
 # TypeScript Development
 
+<div align="center">
+
+[← Back to Main Guide](../README.md) | [📚 Full Stack Quick Refresh Resource](../README.md)
+
+</div>
+
 ## Overview
 
 TypeScript brings type safety and enhanced developer experience to JavaScript development, making your code more maintainable and less prone to runtime errors.

@@ -1,5 +1,11 @@
 # Final Project
 
+<div align="center">
+
+[← Back to Main Guide](../README.md) | [📚 Full Stack Quick Refresh Resource](../README.md)
+
+</div>
+
 ## Overview
 
 This section contains a comprehensive full-stack project that integrates all the technologies covered in this refresher guide: JavaScript, TypeScript, React, NextJS, and NestJS.

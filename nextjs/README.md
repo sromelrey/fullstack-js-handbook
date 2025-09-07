@@ -1,5 +1,11 @@
 # NextJS Framework
 
+<div align="center">
+
+[← Back to Main Guide](../README.md) | [📚 Full Stack Quick Refresh Resource](../README.md)
+
+</div>
+
 ## Overview
 
 Next.js is a full-stack React framework that provides server-side rendering, static site generation, and API routes out of the box.
