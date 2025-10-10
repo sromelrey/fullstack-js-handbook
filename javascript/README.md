@@ -33,8 +33,8 @@ This conceptual reference guide distills the deep, underlying mechanics of JavaS
 | Topic # | Topic Name | Status | Description |
 |---------|------------|--------|-------------|
 | 1.1 | ✅ [Conceptual Aside: Syntax Parsers, Execution Context, and Lexical Environment](./section-1/1.md) | Pending | Understanding how JavaScript processes and executes code |
-| 1.2 | ☐ [Conceptual Aside: Name/Value Pairs and Objects](./section-1/2.md) | Pending | The building blocks of JavaScript data structures |
-| 1.3 | ☐ [The Global Environment and Global Object](./section-1/3.md) | Pending | Understanding the global scope and window object |
+| 1.2 | ✅ [Conceptual Aside: Name/Value Pairs and Objects](./section-1/2.md) | Pending | The building blocks of JavaScript data structures |
+| 1.3 | ✅ [The Global Environment and Global Object](./section-1/3.md) | Pending | Understanding the global scope and window object |
 | 1.4 | ☐ [The Execution Context: Creation and Hoisting](./section-1/4.md) | Pending | How JavaScript creates execution contexts and hoists variables |
 | 1.5 | ☐ [JavaScript and undefined](./section-1/5.md) | Pending | Understanding the special value and keyword undefined |
 | 1.6 | ☐ [The Execution Phase](./section-1/6.md) | Pending | How JavaScript executes code line by line after creation phase |
