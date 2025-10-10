@@ -32,7 +32,7 @@ This conceptual reference guide distills the deep, underlying mechanics of JavaS
 
 | Topic # | Topic Name | Status | Description |
 |---------|------------|--------|-------------|
-| 1.1 | ☐ [Conceptual Aside: Syntax Parsers, Execution Context, and Lexical Environment](./section-1/1.md) | Pending | Understanding how JavaScript processes and executes code |
+| 1.1 | ✅ [Conceptual Aside: Syntax Parsers, Execution Context, and Lexical Environment](./section-1/1.md) | Pending | Understanding how JavaScript processes and executes code |
 | 1.2 | ☐ [Conceptual Aside: Name/Value Pairs and Objects](./section-1/2.md) | Pending | The building blocks of JavaScript data structures |
 | 1.3 | ☐ [The Global Environment and Global Object](./section-1/3.md) | Pending | Understanding the global scope and window object |
 | 1.4 | ☐ [The Execution Context: Creation and Hoisting](./section-1/4.md) | Pending | How JavaScript creates execution contexts and hoists variables |
